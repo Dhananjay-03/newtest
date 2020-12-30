@@ -1,0 +1,25 @@
+.abc{
+  background-color: yellow;
+  width:6000px;
+  height:40px;
+}
+.boxed{
+  position:absolute;
+  width:30px;
+
+  border-style:hidden;
+  border-radius: 5px;
+  box-shadow:2px 2px 2px 2px ;
+  font-size-adjust: 500 ;
+  font-style: italic;
+  font-family: sans-serif;
+
+  background-color:yellow;
+
+
+}
+
+.bda{
+  text-align: center;
+  font-style: italic;
+}
